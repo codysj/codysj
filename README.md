@@ -26,6 +26,7 @@ Interested in:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat&logo=githubactions&logoColor=white)
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat&logo=huggingface&logoColor=black)
