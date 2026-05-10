@@ -4,7 +4,7 @@
 
 Business + Data Science @ UC Berkeley Haas
 
-Interested in building systems at the intersection of:
+Interested in:
 - quantitative modeling
 - AI/ML infrastructure
 - full-stack product engineering
@@ -49,10 +49,3 @@ into a unified timeline for signal discovery.
 Decision-support system with deterministic ranking, constraint filtering,  
 and transparent scoring (no black-box models).
 
----
-
-#### 📊 GitHub
-
-<a href="https://github.com/codysj">
-  <img src="https://github-readme-stats.vercel.app/api?username=codysj&show_icons=true&hide_border=true&hide_title=true&hide=contribs,prs&count_private=true&bg_color=00000000&text_color=8b949e&icon_color=58a6ff&title_color=58a6ff" alt="Cody's GitHub stats" />
-</a>
